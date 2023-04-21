@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://kriskoagm.github.io/article-preview-component/)
+- Live Site URL: [Article Preview Component](https://kriskoagm.github.io/article-preview-component/)
 
 ## My process
 
